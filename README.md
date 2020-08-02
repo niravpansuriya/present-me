@@ -27,6 +27,7 @@
 - Chirp generates very high pitch sound. So, in just 8-10 seconds, whole classroom's attendance (around 90-100 students') can be done by this system.
 - This attendance can managed very easily by professor in the web portal.
 - This is system is highly scalable and very secure.
+- Professor can also mark attendance manually in the web portal, in case any student forgot the cell phone at home.
 
 
 ### Why this is so secure?
@@ -50,6 +51,12 @@
 - [mysql](https://www.mysql.com/) - Database
 - [Hibernate](https://hibernate.org/) - Java framework for simplifies application to interect with database
 - [Spring](https://spring.io/) - Java Application Development Framework
+
+
+### Demo
+
+- Watch a [quick demo](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view?t=08m29s)
+- Watch a [full demp](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view)
 
 
 ## Authors
