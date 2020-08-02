@@ -56,7 +56,7 @@
 ### Demo
 
 - Watch a [quick demo](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view?t=08m29s)
-- Watch a [full demp](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view)
+- Watch a [full demo](https://drive.google.com/file/d/1X4Jkzv1MU37NBFuVUGwuuBEZYH0ey0Q4/view)
 
 
 ## Authors
