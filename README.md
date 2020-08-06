@@ -1,7 +1,7 @@
 # Present Me
 
 - This is an Audio QR based Attendance System.
-- There are many methods to make attendance system fast in schools and colleges i.e. To take attendance with the help of QR Code. But this is very insecure as many students can do fake proxy, just by sending the QR code to his/her friend.
+- There are many ways to make an attendance system fast in schools and colleges i.e. To take attendance with the help of QR Code. But this is very insecure as many students can do fake proxies, just by sending the QR code to his/her friend.
 - So, We have come with a unique idea to make an Attendance System very fast, reliable, and extremely secure.
 - We have used Chirp.io. Chirp is an API that can transfer the data over sound.
  
@@ -10,7 +10,7 @@
 
 - There two mobile applications - Present Me (for students) and Present Me Pro (for professors).
 - There is one web portal.
-- Now admin can use the web portal to add a person and assign them a role (student or professor) manually or by just uploading the CSV file.
+- Now admin can use the web portal to add a person and assign them roles (student or professor) manually or by just uploading the CSV file.
 - Now a professor has to install the Present Me Pro application and login with their credentials.
 - Students have to install the Present Me application and login with their credentials.
 - Now, Professor will add lecture details and these details are sent to the server.
@@ -24,7 +24,7 @@
 
 ### Advantages
 
-- Chirp generates a very high pitch sound. So, in just 8-10 seconds, the whole classroom's attendance (around 90-100 students') can be done by this system.
+- Chirp generates a very high pitch sound, which is enough to be received from any corner of the normal classroom. So, in just 8-10 seconds, the whole classroom's attendance (around 90-100 students') can be done by this system.
 - This attendance can be managed very easily by the professor in the web portal.
 - This is system is highly scalable and very secure.
 - Professor can also mark attendance manually in the web portal, in case any student forgot the cell phone at home.
@@ -32,8 +32,8 @@
 
 ### Why this is so secure?
 
-- Only the admin can add the students and professors in the system. Only an admin can change or generate the password.
-- When the first-time student login in the android device with his/her credentials, the IMEI number of this device stored in the database. (Admin can not see it and system encrypt it before storing). So, after the first login, the student does not need to login every time.
+- Only the admin can add students and professors in the system. Only an admin can change or generate the password.
+- When the first-time student login in the android device with his/her credentials, the IMEI number of this device stored in the database. (Admin can not see it and system encrypt it before storing). So, after the first login, the student does not need to log in every time.
 - Now suppose any student tries to login with any other student's credentials, with the help of IMEI number both will be blocked by the system.
 - Only admin can unblock any blocked student.
 - If any student purchases a new device, only the admin can add him/her to the system.
